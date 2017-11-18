@@ -44,6 +44,9 @@ public class MainActivity extends AppCompatActivity {
                 "Wednesday, Nov 22 - Sunny - 20 C / 18C",
                 "Thursday, Nov 23 - Rainy - 19 C / 16C",
                 "Friday, Nov 24 - Clear - 20 C / 15C",
+                "Saturday, Nov 25 - Clear - 22 C / 17C",
+                "Sunday, Nov 26 - Clear - 23 C / 18C",
+
         };
 
         // TODO (4) Append each String from the fake weather data array to the TextView
